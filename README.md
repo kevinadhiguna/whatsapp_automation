@@ -1,4 +1,4 @@
-# Whatsapp Automation for sending and recieving messages
+# Whatsapp Automation for sending and receiving messages
 
 Whatsapp Automation is a collection of APIs that interact with WhatsApp messenger running in an Android emulator, allowing developers to build projects that automate sending and receiving messages, adding new contacts and broadcasting messages multiple contacts.
 
