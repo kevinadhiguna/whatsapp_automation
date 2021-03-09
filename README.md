@@ -163,7 +163,7 @@ RESPONSE :
 }
 
 # Points to Remember:
-1. Android Version and Whatsapp Version needs to taken care because code is written specific to versions. you can go to 
+1. Android Version and Whatsapp Version needs to be taken care because code is written specific to versions. you can go to 
 workers folder and edit files accordingly to change your platform version and activity class.
 Like 
 Current Code has:
@@ -179,4 +179,4 @@ Android Version is Android-28
 ![Rabbit MQ 1](https://raw.githubusercontent.com/mnkgrover08/whatsapp_automation/master/image-1.png) 
 
  
-# Note: This is just an Experimental Demo which is not intended to voilate any Terms and Conditions of Whatsapp
+# Note: This is just an Experimental Demo which is not intended to violate any Terms and Conditions of Whatsapp
